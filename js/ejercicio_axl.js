@@ -1,1 +1,2 @@
-let edad = 40;
+let nombre = "Axl";
+let edad = 17;
